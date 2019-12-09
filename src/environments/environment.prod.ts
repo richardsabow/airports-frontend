@@ -1,3 +1,5 @@
 export const environment = {
-  production: true
+  production: true,
+  // TODO: Use production URL
+  apiUrl: 'http://localhost:8080',
 };
